@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the four short response papers assigned for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
