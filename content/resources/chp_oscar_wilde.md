@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Oscar Wilde
 uid: d4149a84-5bf2-c6dd-6071-d0d8194a5a47
 ---
 Photograph of Oscar Wilde.
-
