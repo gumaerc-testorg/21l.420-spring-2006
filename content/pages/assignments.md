@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section describes the four short response papers assigned for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5961b37d-ce44-1282-6650-7a982e8d7fdf
 ---
