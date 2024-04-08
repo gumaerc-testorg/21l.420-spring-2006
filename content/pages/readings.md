@@ -73,16 +73,16 @@ What is irony, anyway? A mode of language? A social attitude? A system of judgme
 {{< tdclose >}}{{< tdopen >}}
 Medieval Literature: Middle English, secular and profane
 {{< tdclose >}}{{< tdopen >}}
-Chaucer, Geoffrey. "[General Prologue](http://www.sparknotes.com/lit/canterbury/section1.rhtml)." In *Selected "Canterbury Tales*." Mineola, NY: Dover Publications, 1994. ISBN: 0486282414.
+Chaucer, Geoffrey. "{{% resource_link "53bb3e34-4d42-48a5-9b49-666889f47231" "General Prologue" %}}." In *Selected "Canterbury Tales*." Mineola, NY: Dover Publications, 1994. ISBN: 0486282414.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 More irony of character and more social comedy of manners: This time infused with gender
 {{< tdclose >}}{{< tdopen >}}
 
-Chaucer, Geoffrey. "[The Wife of Bath's Prologue](http://www.sparknotes.com/lit/canterbury/section8.rhtml)." In *Selected "Canterbury Tales."* Mineola, NY: Dover Publications, 1994. ISBN: 0486282414.
+Chaucer, Geoffrey. "{{% resource_link "dba89acd-b8c2-45c3-a9a1-bdcb24b53826" "The Wife of Bath's Prologue" %}}." In *Selected "Canterbury Tales."* Mineola, NY: Dover Publications, 1994. ISBN: 0486282414.
 
-———. "[The Wife of Bath's Tale](http://www.sparknotes.com/lit/canterbury/section10.rhtml)." In *Selected "Canterbury Tales."* Mineola, NY: Dover Publications, 1994. ISBN: 0486282414.
+———. "{{% resource_link "a391a6d5-e37a-4c60-8645-e517f115d290" "The Wife of Bath's Tale" %}}." In *Selected "Canterbury Tales."* Mineola, NY: Dover Publications, 1994. ISBN: 0486282414.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -108,11 +108,11 @@ Humanism, Wit, and the English Renaissance
 
 Sonnets (Available on-line: specifics in class.)
 
-[Shakespeare, William](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/831/sonnets.pdf?sequence=1). Sonnets.
+{{% resource_link "8b81de36-cfc5-4e17-b078-5ded26cef998" "Shakespeare, William" %}}. Sonnets.
 
-[Donne, John](http://www.luminarium.org/sevenlit/donne/).
+{{% resource_link "f8d2cc71-9ef5-4cf1-8cbc-d5e398ee35ed" "Donne, John" %}}.
 
-[Herbert, George](http://www.luminarium.org/sevenlit/herbert/).
+{{% resource_link "7cbd31ed-7434-4e32-b5b8-d104af2cfbe5" "Herbert, George" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -120,7 +120,7 @@ Sonnets (Available on-line: specifics in class.)
 Shakespeare, *Romeo and Juliet*
 {{< tdclose >}}{{< tdopen >}}
 
-[Shakespeare, William](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/831/sonnets.pdf?sequence=1). Sonnets.
+{{% resource_link "8b81de36-cfc5-4e17-b078-5ded26cef998" "Shakespeare, William" %}}. Sonnets.
 
 *Questions*
 
@@ -155,24 +155,24 @@ Sense, Sensibility, Landscape
 {{< tdclose >}}{{< tdopen >}}
 
 Paintings by William Hogarth:   
-[Roast Beef of England](http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&workid=6617&searchid=8503&tabview=image), 1748.   
-[Marriage à la Mode](https://www.nationalgallery.org.uk/paintings/william-hogarth-marriage-a-la-mode-1-the-marriage-settlement), c. 1743.
+{{% resource_link "084ceb2d-79a6-4aa2-bc76-13b20a99e6be" "Roast Beef of England" %}}, 1748.   
+{{% resource_link "63a65836-7bba-4455-90c9-27578f894fdb" "Marriage à la Mode" %}}, c. 1743.
 
-Animal paintings by [George Stubbs](http://www.tate.org.uk/servlet/ArtistWorks?cgroupid=999999961&artistid=538&page=1).
+Animal paintings by {{% resource_link "eba87b5b-2c1c-45a7-a11b-5e895f8b4f6b" "George Stubbs" %}}.
 
 British landscape paintings, 18th and 19th centuries:   
-Gainsborough, Thomas. [Carthorses Drinking at a Stream](http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&workid=4894&searchid=8407&tabview=image), 1760.   
-Crome, John. [The Poringland Oak](http://www.tate.org.uk/servlet/ViewWork?workid=2949&tabview=image), 1818.   
-Turner, Joseph Mallord William. [Childe Harold's Pilgrimage](http://www.tate.org.uk/servlet/ViewWork?workid=14774&tabview=image), 1832.   
-Thomas Barker of Bath. [Landscape with Figures](https://artuk.org/discover/artworks/landscape-with-figures-39828#) , 1836.   
-Hunt, William Holman. [Our English Coasts](http://www.tate.org.uk/servlet/ViewWork?workid=6994&tabview=image), 1852.   
-Constable, John. [Hampstead Heath with Rainbow](http://tate.org.uk/servlet/ViewWork?workid=2593&searchid=8743&roomid=3412&tabview=image), 1860.   
-Spencer, Stanley. [The Resurrection, Cookham](http://www.tate.org.uk/servlet/ViewWork?workid=13675&tabview=image), 1927.
+Gainsborough, Thomas. {{% resource_link "789a4067-9286-4a99-8adb-9b354ee63a23" "Carthorses Drinking at a Stream" %}}, 1760.   
+Crome, John. {{% resource_link "54fb98d6-1952-46fc-927c-be23acd5502f" "The Poringland Oak" %}}, 1818.   
+Turner, Joseph Mallord William. {{% resource_link "534c5e0d-a9a9-4dc2-bc50-f09066454471" "Childe Harold's Pilgrimage" %}}, 1832.   
+Thomas Barker of Bath. {{% resource_link "e6d942b2-3529-4de5-a1f0-8c052b8612ca" "Landscape with Figures" %}} , 1836.   
+Hunt, William Holman. {{% resource_link "b6ae83b4-33c4-46c5-9980-fca6ed81fd74" "Our English Coasts" %}}, 1852.   
+Constable, John. {{% resource_link "8fe6409b-7abf-43e8-8353-02200cadfe5e" "Hampstead Heath with Rainbow" %}}, 1860.   
+Spencer, Stanley. {{% resource_link "9d3397ed-b0e8-40ca-8e82-7f15f23c3a97" "The Resurrection, Cookham" %}}, 1927.
 
 Paintings by Samuel Palmer:   
-[A Pastoral Scene](http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&workid=11047&searchid=8869&tabview=image),  1831.   
-[Moonlight, a Landscape with Sheep](http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&workid=11048&searchid=8869&tabview=image), 1831.   
-[The Herdsman's Cottage](http://www.artgallery.nsw.gov.au/collection/works/DB38.1962/), 1850.
+{{% resource_link "21986cfb-0c7e-46f7-ae89-fd81a76b3289" "A Pastoral Scene" %}},  1831.   
+{{% resource_link "2274b73c-6339-4870-8a0e-90a00fee8da1" "Moonlight, a Landscape with Sheep" %}}, 1831.   
+{{% resource_link "6ec78a34-c773-499e-a077-ec46ccb673c2" "The Herdsman's Cottage" %}}, 1850.
 
 *Questions*
 
@@ -204,9 +204,9 @@ Jane Austen, *Pride and Prejudice* and Poems by John Clare and Christopher Smart
 
 Austen, Jane. *Pride and Prejudice.* Mineola, NY: Dover Publications, 1995.
 
-Clare, John. "[To Mary](http://www.poemhunter.com/p/m/poem.asp?poet=6598&poem=29108)," "[I Am](http://www.poemhunter.com/p/m/poem.asp?poet=6598&poem=30342)," "[The Badger](http://www.poemhunter.com/p/m/poem.asp?poet=6598&poem=28515)," and "Gypsies."
+Clare, John. "{{% resource_link "f630077f-925a-47c4-9641-49f4bd3b2b0c" "To Mary" %}}," "{{% resource_link "253a5656-0733-4993-aa6e-88986609d1e8" "I Am" %}}," "{{% resource_link "052613de-6527-4187-b80c-f01e175ea069" "The Badger" %}}," and "Gypsies."
 
-Smart, Christopher. "[My Cat Jeffrey](http://www.poemhunter.com/p/m/poem.asp?poet=6902&poem=36218)." Sections of *Jubilate Agno*.
+Smart, Christopher. "{{% resource_link "12fc3ee6-aced-416f-bb3f-25b7f61a5e19" "My Cat Jeffrey" %}}." Sections of *Jubilate Agno*.
 
 *Questions*
 
@@ -242,9 +242,9 @@ The Age of Reform, Restraint, Parody
 
 Browning, Robert. *"My Last Duchess" and Other Poems*. Mineola, NY: Dover Publications, 1993.
 
-Tennyson, Lord Alfred. "[Tithonus](http://www.poemhunter.com/p/m/poem.asp?poet=33670&poem=401490)," "[Ulysses](http://www.poemhunter.com/p/m/poem.asp?poet=33670&poem=401628)," and "Evolution." Subsections of "In Memoriam."
+Tennyson, Lord Alfred. "{{% resource_link "1ea673e7-c91b-4619-8583-73f3fb27b5f3" "Tithonus" %}}," "{{% resource_link "ac31be30-1895-4f56-a95a-70e5a53a7886" "Ulysses" %}}," and "Evolution." Subsections of "In Memoriam."
 
-Browning, Elizabeth Barrett. [*Sonnets from the Portuguese*](http://www.poemhunter.com/p/m/poem.asp?poet=3035&poem=38204).
+Browning, Elizabeth Barrett. {{% resource_link "993f3e74-74cd-4aae-aef6-e3db06b35aff" "*Sonnets from the Portuguese*" %}}.
 
 *Questions*
 
@@ -256,7 +256,7 @@ Psychology as a narrative science; Self-revelation, comedy and perspective.
 Arthur Conan Doyle: Sherlock Holmes stories
 {{< tdclose >}}{{< tdopen >}}
 
-Doyle, Arthur Conan. "[The Adventure of the Speckled Band](http://www.enotes.com/topics/adventure-speckled)," "[The Adventure of the Dancing Men](http://www.eastoftheweb.com/short-stories/UBooks/AdveDanc.shtml)," and "[A Study in Scarlet](https://www.gutenberg.org/files/244/244-h/244-h.htm)." In *Favorite Sherlock Holmes*. Mineola, NY: Dover Publications, 2000.
+Doyle, Arthur Conan. "{{% resource_link "e75a72ae-771a-4530-aa4e-0c63d8aade9b" "The Adventure of the Speckled Band" %}}," "{{% resource_link "186f3fb1-76c2-45c9-a80f-0c95be4f638c" "The Adventure of the Dancing Men" %}}," and "{{% resource_link "cc46916e-76e5-4b43-8e91-7fa724c1de8e" "A Study in Scarlet" %}}." In *Favorite Sherlock Holmes*. Mineola, NY: Dover Publications, 2000.
 
 *Questions*
 
@@ -267,7 +267,7 @@ Sherlock Holmes and the 'counterfactual'; Comedy, justice, and narrative resolut
 {{< tdclose >}}{{< tdopen >}}
 Film: Oscar Wilde, *The Importance of Being Earnest*
 {{< tdclose >}}{{< tdopen >}}
-[Wilde, Oscar. *The Importance of Being Earnest*](http://www.hoboes.com/html/FireBlade/Wilde/earnest/).
+{{% resource_link "f7cc3d41-8b9e-4dcb-a8f2-ee217dc052e4" "Wilde, Oscar. *The Importance of Being Earnest*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -288,7 +288,7 @@ Henry James, *Daisy Miller* (cont.)
 
 James, Henry. *Daisy Miller*.
 
-[Stanley Spencer](http://www.stanleyspencer.org.uk/) paintings: [Cookham paintings](http://www.cookham.com/about/spencer_tour.htm), especially "[Christ Carrying His Cross](http://www.tate.org.uk/servlet/ViewWork?workid=13674&searchid=18484&tabview=image)," and others.
+{{% resource_link "67b39f09-f8af-42e8-9f38-f51c97615d9c" "Stanley Spencer" %}} paintings: {{% resource_link "8778dd82-9833-483e-9cdf-627676afbc6f" "Cookham paintings" %}}, especially "{{% resource_link "d423fc4d-6d55-4e08-9349-01dc3448e28b" "Christ Carrying His Cross" %}}," and others.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -304,7 +304,7 @@ Samuel Beckett, *Waiting for Godot*
 
 Beckett, Samuel. *Waiting for Godot*.
 
-Pictures by [Lucian Freud](http://www.tate.org.uk/search/Lucian%20Freud), [Francis Bacon](http://members.tripod.com/~pinkfreudian/archivebacon.html), and [Tracy Emin](http://www.artnet.com/artists/tracey-emin/).
+Pictures by {{% resource_link "6ce98326-1776-4294-b73e-33309640fc99" "Lucian Freud" %}}, {{% resource_link "1a8b96be-f008-4863-91bf-1f543424f63f" "Francis Bacon" %}}, and {{% resource_link "e696991c-8376-4c81-a247-152883da7d3b" "Tracy Emin" %}}.
 
 *Questions*
 
@@ -316,9 +316,9 @@ What is "tragi-comic"? What 'happens' in this play?
 Harold Pinter, *The Homecoming*
 {{< tdclose >}}{{< tdopen >}}
 
-Pinter, Harold. [*The Homecoming*](http://www.litencyc.com/php/sworks.php?rec=true&UID=580).
+Pinter, Harold. {{% resource_link "029cbd3c-a351-47de-8cae-6c82cd77a2f8" "*The Homecoming*" %}}.
 
-See also Pinter's Nobel Prize award speech, "[Art, Truth and Politics](http://nobelprize.org/nobel_prizes/literature/laureates/2005/pinter-lecture.html)."
+See also Pinter's Nobel Prize award speech, "{{% resource_link "83ed6215-3354-4917-bd7e-284c68be79b2" "Art, Truth and Politics" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -346,12 +346,12 @@ Final Evaluations, Poems, Monty Python
 
 Poems by Philip Larkin, Stevie Smith, Thom Gunn, and Sylvia Plath.
 
-Larkin, Philip."[Church Going](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=34852)," "[The Whitsun Weddings](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=31835)," and "[High Windows](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=32472)."
+Larkin, Philip."{{% resource_link "48a2dddc-f25b-44c6-bb47-d01047da483f" "Church Going" %}}," "{{% resource_link "123c563e-edc0-47f1-b723-e1734d978e58" "The Whitsun Weddings" %}}," and "{{% resource_link "08aab823-e5e9-471e-bb43-9b02f85f2baf" "High Windows" %}}."
 
-Plath, Sylvia. "[Daddy](http://www.poemhunter.com/p/m/poem.asp?poet=6642&poem=32671)," "[Lady Lazarus](http://www.poemhunter.com/p/m/poem.asp?poet=6642&poem=29369)," and "Rabbit Catcher."
+Plath, Sylvia. "{{% resource_link "6bae6973-d0b5-46ef-84e2-8a3104d6e275" "Daddy" %}}," "{{% resource_link "f95e6822-b949-42d6-97c0-453dd80237ba" "Lady Lazarus" %}}," and "Rabbit Catcher."
 
-Smith, Stevie. "[Not Waving but Drowning](http://www.poemhunter.com/p/m/poem.asp?poet=6648&poem=33061)," "Do Take Muriel Out," "[Drugs Made Pauline Vague](http://www.poemhunter.com/p/m/poem.asp?poet=6648&poem=32448)," "[Nor We of Her to Him](http://www.poemhunter.com/p/m/poem.asp?poet=6648&poem=32443)," "[Never Again](http://www.poemhunter.com/p/m/poem.asp?poet=6648&poem=32444)," and "[Conviction](http://www.poemhunter.com/p/m/poem.asp?poet=6648&poem=32451)."
+Smith, Stevie. "{{% resource_link "14c56e66-3daf-49ac-8bed-3d1919c856f0" "Not Waving but Drowning" %}}," "Do Take Muriel Out," "{{% resource_link "dc8e6b30-298d-4bd3-9535-bbbf4dc9068a" "Drugs Made Pauline Vague" %}}," "{{% resource_link "1d255184-65bb-45e3-9d06-c9f96914e786" "Nor We of Her to Him" %}}," "{{% resource_link "e12f6d4a-0e4d-40c1-8fba-b4e54a386531" "Never Again" %}}," and "{{% resource_link "bc82cebc-7f13-4c59-8e87-a8ffaddc827a" "Conviction" %}}."
 
-Gunn, Thom. "Touch," "Moly," "[My Sad Captains](http://www.poemhunter.com/p/m/poem.asp?poet=6752&poem=122362)," and "[The Man with Night Sweats](http://www.poemhunter.com/p/m/poem.asp?poet=6752&poem=29920)."
+Gunn, Thom. "Touch," "Moly," "{{% resource_link "29240715-b4f8-4abc-99a6-73f81369f039" "My Sad Captains" %}}," and "{{% resource_link "3512417f-e476-4bc5-beed-78fd817bd547" "The Man with Night Sweats" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
