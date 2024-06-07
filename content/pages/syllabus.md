@@ -26,7 +26,7 @@ Some time during the term, memorize and recite any poem \[or section of a poem o
 
 An option for replacing a memorization: evidence of having attended two poetry readings \[probably not slams or contests\] in the Boston area.
 
-One more option for replacing a memorization: go to the David Hockney exhibit at the {{% resource_link "cd2fc1d5-08d9-49b6-be26-a0b11ec1028f" "Museum of Fine Arts" %}}  and write a thoughtful response.
+One more option for replacing a memorization: go to the David Hockney exhibit at the [Museum of Fine Arts](http://www.mfa.org/exhibitions/david-hockney-portraits)  and write a thoughtful response.
 
 ### Quizzes
 
@@ -60,7 +60,7 @@ Quizzes, Essays, other work
 
 ## Policy on Plagiarism
 
-Plagiarism -- the use of another's intellectual work without acknowledgement -- is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasing taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "167f3192-9f03-42ff-983f-a7764c46feb2" "Writing and Communication Center" %}} and the {{% resource_link "1d457605-f7f2-410e-ac9d-023103fe0f4b" "MIT Web site on Plagiarism" %}}.
+Plagiarism -- the use of another's intellectual work without acknowledgement -- is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasing taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://web.mit.edu/writing/) and the [MIT Web site on Plagiarism](http://libguides.mit.edu/content.php?pid=80743&sid=598642#1885811).
 
 ## {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 
@@ -100,7 +100,7 @@ Humanism, Wit, and the English Renaissance
 7
 {{< tdclose >}}{{< tdopen >}}
 Shakespeare, *Romeo and Juliet*   
-1 day after Lec #7: {{% resource_link "c683ba6c-c0a9-43af-a246-73f9753adeac" "American Repertory Theatre" %}} production of *Romeo and Juliet*
+1 day after Lec #7: [American Repertory Theatre](http://www.americanrepertorytheater.org/) production of *Romeo and Juliet*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
