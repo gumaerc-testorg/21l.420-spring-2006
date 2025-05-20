@@ -2,7 +2,7 @@
 content_type: resource
 description: Photograph of the original "Alice" and her sisters, Edith and Lorina,
   by Lewis Carroll. (Photograph courtesy of Lewis Carroll. Used with permission.)
-file: /ol-ocw-studio-app/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/38e76a74ddb7b6980670a52bcc9d64d2_chp_alice07.jpg
+file: /courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/38e76a74ddb7b6980670a52bcc9d64d2_chp_alice07.jpg
 file_size: 60589
 file_type: image/jpeg
 image_metadata:
