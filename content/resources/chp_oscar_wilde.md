@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of Oscar Wilde.
-file: /courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/d4149a845bf2c6dd6071d0d8194a5a47_chp_oscar_wilde.jpg
+file: /ol-ocw-studio-app/courses/21l-420-literary-studies-the-legacy-of-england-spring-2006/d4149a845bf2c6dd6071d0d8194a5a47_chp_oscar_wilde.jpg
 file_size: 35213
 file_type: image/jpeg
 image_metadata:
